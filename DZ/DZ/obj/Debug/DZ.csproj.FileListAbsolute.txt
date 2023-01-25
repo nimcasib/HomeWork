@@ -1,0 +1,11 @@
+C:\Users\nikit\source\repos\DZ\DZ\bin\Debug\DZ.exe.config
+C:\Users\nikit\source\repos\DZ\DZ\bin\Debug\DZ.exe
+C:\Users\nikit\source\repos\DZ\DZ\bin\Debug\DZ.pdb
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.Form1.resources
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.Properties.Resources.resources
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.exe
+C:\Users\nikit\source\repos\DZ\DZ\obj\Debug\DZ.pdb
